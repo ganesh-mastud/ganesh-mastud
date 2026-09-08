@@ -325,6 +325,18 @@ View Project →
 ---
 
 <p align="center">
+  ---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="GANESH_DA_FINAL_RESUME.pdf">
+<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
+
 
 ### ⭐ Thanks for visiting my profile!
 
